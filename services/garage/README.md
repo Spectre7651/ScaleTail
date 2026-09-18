@@ -7,6 +7,7 @@ This Docker Compose configuration sets up [**Garage**](https://garagehq.deuxfleu
 [**Garage**](https://garagehq.deuxfleurs.fr/) is an S3 compatible storage solution designed for self hosting at a small scale. Supporting Geo-replication and redundancy optimised for performance and resiliance to node failures.
 
 ## Key Features
+
 - S3 API
 - Geo-distribution
 - Flexible deployments
